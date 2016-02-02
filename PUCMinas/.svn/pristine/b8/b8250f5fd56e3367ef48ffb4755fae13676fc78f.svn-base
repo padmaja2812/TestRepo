@@ -1,0 +1,21 @@
+{
+	"AS_Button_3e486b5dc3e74b3c9083f2521491a715": {
+		"id": "AS_Button_3e486b5dc3e74b3c9083f2521491a715",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__e1c0f8a3e6aa47ca88800e28fade8e69",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "callServiceSGALogin();",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

@@ -1,0 +1,4 @@
+function AS_Button_79137a96e34b4997bf918e4b010ef387(eventobject) {
+frmNoticies.show();
+
+}

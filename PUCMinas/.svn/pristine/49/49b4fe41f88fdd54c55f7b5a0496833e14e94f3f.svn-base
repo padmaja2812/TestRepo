@@ -1,0 +1,21 @@
+{
+	"AS_Button_7a6bbb9882b7413d884ece2bc5b670e5": {
+		"id": "AS_Button_7a6bbb9882b7413d884ece2bc5b670e5",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__9668584bcf2d4ef9ba0350987f031c7a",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "callServiceCampus();",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"AS_FlexContainer_c291ad06fc8c4ca28d5c1b28b60651f4": {
+		"id": "AS_FlexContainer_c291ad06fc8c4ca28d5c1b28b60651f4",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			},
+			{
+				"datatype": "string",
+				"name": "x"
+			},
+			{
+				"datatype": "string",
+				"name": "y"
+			}
+		],
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onTouchEnd_abf56b60017c4cca802d53738a8337da",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "animateHamburger();",
+				"callbackType": null
+			}
+		]
+	}
+}

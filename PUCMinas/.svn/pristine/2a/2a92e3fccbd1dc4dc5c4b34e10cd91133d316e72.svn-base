@@ -1,0 +1,30 @@
+{
+	"AS_Image_c769babb22c54e338642ffc9d4dba31a": {
+		"id": "AS_Image_c769babb22c54e338642ffc9d4dba31a",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			},
+			{
+				"datatype": "string",
+				"name": "x"
+			},
+			{
+				"datatype": "string",
+				"name": "y"
+			}
+		],
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onTouchEnd_161064464dbd46e59169410d7821b292",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmNoticies",
+				"formKUID": "bccaf0245fad45fda590968bff24828f",
+				"parentId": "",
+				"callbackType": null
+			}
+		]
+	}
+}

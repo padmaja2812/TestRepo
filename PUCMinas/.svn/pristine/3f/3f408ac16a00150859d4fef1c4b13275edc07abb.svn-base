@@ -1,0 +1,21 @@
+{
+	"AS_Button_f1f68e25dcde4f3aadbd8a50fd85326e": {
+		"id": "AS_Button_f1f68e25dcde4f3aadbd8a50fd85326e",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__b56341180a244daa94625569cc9c7539",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "animateHamburger();",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

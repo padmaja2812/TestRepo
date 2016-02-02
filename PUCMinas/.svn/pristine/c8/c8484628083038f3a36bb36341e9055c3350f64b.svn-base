@@ -1,0 +1,28 @@
+{
+	"AS_Segment_81ab31fd93424313be2421f94c995431": {
+		"id": "AS_Segment_81ab31fd93424313be2421f94c995431",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			},
+			{
+				"datatype": "number",
+				"name": "sectionNumber"
+			},
+			{
+				"datatype": "number",
+				"name": "rowNumber"
+			}
+		],
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onRowClick_9ca5976743474d29a066044d7c0cf4c7",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "onClickMenuHome();",
+				"callbackType": null
+			}
+		]
+	}
+}

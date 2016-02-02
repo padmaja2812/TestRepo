@@ -1,0 +1,5 @@
+function AS_Form_7b6172027690408daa6f956645634403() {
+frmCampusDetails.FlexContainerHamburger.left = "-80%";
+frmCampusDetails.FlexContainerTrans.setVisibility(false);
+
+}

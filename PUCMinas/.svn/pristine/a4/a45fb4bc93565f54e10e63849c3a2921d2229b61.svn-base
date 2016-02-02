@@ -1,0 +1,4 @@
+function AS_Button_8efc5cde60094c39b9f0c3941523008e(eventobject) {
+animateHamburger();
+
+}

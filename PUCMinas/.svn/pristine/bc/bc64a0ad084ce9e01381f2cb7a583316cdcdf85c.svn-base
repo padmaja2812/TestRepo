@@ -1,0 +1,5 @@
+#Thu Dec 24 15:55:36 IST 2015
+httpport=80
+httpsport=443
+middlewarecontext=middleware
+ipaddress=demo1.konylabs.net

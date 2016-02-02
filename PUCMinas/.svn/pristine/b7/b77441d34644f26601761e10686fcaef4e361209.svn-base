@@ -1,0 +1,4 @@
+function AS_Image_ee878dd0fc804f3d81edab3980f073f0(eventobject, x, y) {
+frmSGAHome.show();
+
+}

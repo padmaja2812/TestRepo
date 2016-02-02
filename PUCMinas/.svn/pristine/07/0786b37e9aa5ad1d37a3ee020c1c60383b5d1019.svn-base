@@ -1,0 +1,210 @@
+<application desc="" id="PUCMinas" name="" smscode="">
+   <app-config>
+      <config-param name="APP_SMS_HEADER" value="null"/>
+   </app-config>
+   <services>
+      <service cachable="false" cacheduration="" id="Campus" passwordencrypted="true" smscode="" smsenabled="false" type="jsonConnector">
+         <service-config>
+            <config-param name="endpointUrl" value="http://web.sistemas.pucminas.br/PUCMobile/Institucional/v1/InstitucionalService.svc/BuscarAlteracoes?conteudo=Unidades"/>
+            <config-param name="postprocessorname" value=""/>
+            <config-param name="preprocessorname" value=""/>
+            <config-param name="urlprovider" value=""/>
+            <config-param name="dataprovider" value=""/>
+            <config-param name="sockettimeout" value=""/>
+            <config-param name="includecookies" value=""/>
+            <config-param name="proxyname" value=""/>
+            <config-param name="proxyport" value=""/>
+            <config-param name="proxyusername" value=""/>
+            <config-param name="http.method" value=""/>
+            <config-param name="isembedxmlpresent" value="false"/>
+            <config-param name="ignorehttpproxy" value="false"/>
+            <config-param name="responseEncoding" value="UTF-8"/>
+            <config-param name="server.auth.mode" value="basic"/>
+            <config-param name="server.auth.host" value=""/>
+            <config-param name="server.auth.ntlm.domain" value=""/>
+         </service-config>
+         <service-input/>
+         <service-output>
+            <dataset id="CampusList" src="//ListaUnidades">
+               <param datatype="string" format="None" formatvalue="" name="imgURL" sms-name="" src="./Img" target="response"/>
+               <param datatype="string" format="None" formatvalue="" name="Lat" sms-name="" src="./Lat" target="response"/>
+               <param datatype="string" format="None" formatvalue="" name="LinkAcessoExterno" sms-name="" src="./LinkAcessoExterno" target="response"/>
+               <param datatype="string" format="None" formatvalue="" name="Lon" sms-name="" src="./Lon" target="response"/>
+               <param datatype="string" format="None" formatvalue="" name="NomeMenu" sms-name="" src="./NomeMenu" target="response"/>
+               <param datatype="string" format="None" formatvalue="" name="TextoApresentacao" sms-name="" src="./TextoApresentacao" target="response"/>
+               <param datatype="string" format="None" formatvalue="" name="TextoContato" sms-name="" src="./TextoContato" target="response"/>
+               <param datatype="string" format="None" formatvalue="" name="TextoLocalizacao" sms-name="" src="./TextoLocalizacao" target="response"/>
+               <param datatype="string" format="None" formatvalue="" name="Titulo" sms-name="" src="./Titulo" target="response"/>
+            </dataset>
+            <param datatype="number" format="None" formatvalue="" name="opstatus" sms-name="" src="" target=""/>
+            <param datatype="string" format="None" formatvalue="" name="errmsg" sms-name="" src="" target=""/>
+            <param datatype="number" format="None" formatvalue="" name="httpStatusCode" sms-name="" src="" target=""/>
+         </service-output>
+      </service>
+      <service cachable="false" cacheduration="" id="Login" passwordencrypted="true" smscode="" smsenabled="false" type="jsonConnector">
+         <service-config>
+            <config-param name="endpointUrl" value="http://web.sistemas.pucminas.br/PUCMobile/Academico/v1/TesteService.svc/VerificarLogin"/>
+            <config-param name="postprocessorname" value=""/>
+            <config-param name="preprocessorname" value=""/>
+            <config-param name="urlprovider" value=""/>
+            <config-param name="dataprovider" value=""/>
+            <config-param name="sockettimeout" value=""/>
+            <config-param name="includecookies" value=""/>
+            <config-param name="proxyname" value=""/>
+            <config-param name="proxyport" value=""/>
+            <config-param name="proxyusername" value=""/>
+            <config-param name="http.method" value="POST"/>
+            <config-param name="isembedxmlpresent" value="false"/>
+            <config-param name="ignorehttpproxy" value="false"/>
+            <config-param name="responseEncoding" value="UTF-8"/>
+            <config-param name="server.auth.mode" value="basic"/>
+            <config-param name="server.auth.host" value=""/>
+            <config-param name="server.auth.ntlm.domain" value=""/>
+         </service-config>
+         <service-input>
+            <header>
+               <param datatype="string" format="None" formatvalue="" name="X-PUC-Mobile-Ver" sms-name="" src="request" target="" value="1.0"/>
+            </header>
+         </service-input>
+         <service-output>
+            <param datatype="string" format="None" formatvalue="" name="Mensagem" sms-name="" src="VerificarLoginResult/Resultado/Mensagem" target="response"/>
+            <param datatype="string" format="None" formatvalue="" name="Sucesso" sms-name="" src="VerificarLoginResult/Resultado/Sucesso" target="response"/>
+            <param datatype="string" format="None" formatvalue="" name="CodOrigem" sms-name="" src="VerificarLoginResult/Valor/CodOrigem" target="response"/>
+            <param datatype="string" format="None" formatvalue="" name="Matricula" sms-name="" src="VerificarLoginResult/Valor/Matricula" target="response"/>
+            <param datatype="string" format="None" formatvalue="" name="NomeAluno" sms-name="" src="VerificarLoginResult/Valor/NomeAluno" target="response"/>
+            <param datatype="string" format="None" formatvalue="" name="NomeCurso" sms-name="" src="VerificarLoginResult/Valor/NomeCurso" target="response"/>
+            <param datatype="string" format="None" formatvalue="" name="NomeUnidade" sms-name="" src="VerificarLoginResult/Valor/NomeUnidade" target="response"/>
+            <param datatype="string" format="None" formatvalue="" name="Turno" sms-name="" src="VerificarLoginResult/Valor/Turno" target="response"/>
+            <param datatype="number" format="None" formatvalue="" name="opstatus" sms-name="" src="" target=""/>
+            <param datatype="string" format="None" formatvalue="" name="errmsg" sms-name="" src="" target=""/>
+            <param datatype="number" format="None" formatvalue="" name="httpStatusCode" sms-name="" src="" target=""/>
+         </service-output>
+      </service>
+      <service cachable="false" cacheduration="" id="Materials" passwordencrypted="true" smscode="" smsenabled="false" type="jsonConnector">
+         <service-config>
+            <config-param name="endpointUrl" value="http://web.sistemas.pucminas.br/PUCMobile/Academico/v1/TesteService.svc/BuscarListaMateriais"/>
+            <config-param name="postprocessorname" value=""/>
+            <config-param name="preprocessorname" value=""/>
+            <config-param name="urlprovider" value=""/>
+            <config-param name="dataprovider" value=""/>
+            <config-param name="sockettimeout" value=""/>
+            <config-param name="includecookies" value=""/>
+            <config-param name="proxyname" value=""/>
+            <config-param name="proxyport" value=""/>
+            <config-param name="proxyusername" value=""/>
+            <config-param name="http.method" value="POST"/>
+            <config-param name="isembedxmlpresent" value="false"/>
+            <config-param name="ignorehttpproxy" value="false"/>
+            <config-param name="responseEncoding" value="UTF-8"/>
+            <config-param name="server.auth.mode" value="basic"/>
+            <config-param name="server.auth.host" value=""/>
+            <config-param name="server.auth.ntlm.domain" value=""/>
+         </service-config>
+         <service-input>
+            <header>
+               <param datatype="string" format="None" formatvalue="" name="X-PUC-Mobile-Ver" sms-name="" src="request" target="" value="1.0"/>
+            </header>
+            <template-param name="message" value="{    &quot;codDiretorio&quot;: $codDiretorio,    &quot;codTurma&quot;: $codTurma }"/>
+            <param datatype="string" encode="true" name="codDiretorio" sms-name="" src="request" value=""/>
+            <param datatype="string" encode="true" name="codTurma" sms-name="" src="request" value=""/>
+         </service-input>
+         <service-output>
+            <param datatype="string" format="None" formatvalue="" name="Mensagem" sms-name="" src="BuscarListaMateriaisResult/Resultado/Mensagem" target="response"/>
+            <param datatype="string" format="None" formatvalue="" name="Sucesso" sms-name="" src="BuscarListaMateriaisResult/Resultado/Sucesso" target="response"/>
+            <dataset id="Materials" src="BuscarListaMateriaisResult/Valor">
+               <param datatype="string" format="None" formatvalue="" name="CodMaterial" sms-name="" src="./CodMaterial" target="response"/>
+               <param datatype="string" format="None" formatvalue="" name="DataMaterial" sms-name="" src="./DataMaterial" target="response"/>
+               <param datatype="string" format="None" formatvalue="" name="Tipo" sms-name="" src="./Tipo" target="response"/>
+               <param datatype="string" format="None" formatvalue="" name="Titulo" sms-name="" src="./Titulo" target="response"/>
+               <param datatype="string" format="None" formatvalue="" name="Url" sms-name="" src="./Url" target="response"/>
+            </dataset>
+            <param datatype="number" format="None" formatvalue="" name="opstatus" sms-name="" src="" target=""/>
+            <param datatype="string" format="None" formatvalue="" name="errmsg" sms-name="" src="" target=""/>
+            <param datatype="number" format="None" formatvalue="" name="httpStatusCode" sms-name="" src="" target=""/>
+         </service-output>
+      </service>
+      <service cachable="false" cacheduration="" id="Score" passwordencrypted="true" smscode="" smsenabled="false" type="jsonConnector">
+         <service-config>
+            <config-param name="endpointUrl" value="http://web.sistemas.pucminas.br/PUCMobile/Academico/v1/TesteService.svc/BuscarDadosAlunoTurma"/>
+            <config-param name="postprocessorname" value=""/>
+            <config-param name="preprocessorname" value=""/>
+            <config-param name="urlprovider" value=""/>
+            <config-param name="dataprovider" value=""/>
+            <config-param name="sockettimeout" value=""/>
+            <config-param name="includecookies" value=""/>
+            <config-param name="proxyname" value=""/>
+            <config-param name="proxyport" value=""/>
+            <config-param name="proxyusername" value=""/>
+            <config-param name="http.method" value="POST"/>
+            <config-param name="isembedxmlpresent" value="false"/>
+            <config-param name="ignorehttpproxy" value="false"/>
+            <config-param name="responseEncoding" value="UTF-8"/>
+            <config-param name="server.auth.mode" value="basic"/>
+            <config-param name="server.auth.host" value=""/>
+            <config-param name="server.auth.ntlm.domain" value=""/>
+         </service-config>
+         <service-input>
+            <header>
+               <param datatype="string" format="None" formatvalue="" name="X-PUC-Mobile-Ver" sms-name="" src="request" target="" value="1.0"/>
+            </header>
+            <template-param name="message" value="{&quot;codTurma&quot;: $codTurma}"/>
+            <param datatype="string" encode="true" name="codTurma" sms-name="" src="request" value=""/>
+         </service-input>
+         <service-output>
+            <dataset id="Atividades" src="BuscarDadosAlunoTurmaResult/Valor/Atividades">
+               <param datatype="string" format="None" formatvalue="" name="Nome" sms-name="" src="./Nome" target="response"/>
+               <param datatype="string" format="None" formatvalue="" name="Nota" sms-name="" src="./Nota" target="response"/>
+               <param datatype="string" format="None" formatvalue="" name="Valor" sms-name="" src="./Valor" target="response"/>
+            </dataset>
+            <param datatype="string" format="None" formatvalue="" name="Faltas" sms-name="" src="BuscarDadosAlunoTurmaResult/Valor/Faltas" target="response"/>
+            <param datatype="string" format="None" formatvalue="" name="NomeDisciplina" sms-name="" src="BuscarDadosAlunoTurmaResult/Valor/NomeDisciplina" target="response"/>
+            <param datatype="string" format="None" formatvalue="" name="PercentualAprovacao" sms-name="" src="BuscarDadosAlunoTurmaResult/Valor/PercentualAprovacao" target="response"/>
+            <param datatype="string" format="None" formatvalue="" name="TotalAulas" sms-name="" src="BuscarDadosAlunoTurmaResult/Valor/TotalAulas" target="response"/>
+            <param datatype="string" format="None" formatvalue="" name="Mensagem" sms-name="" src="//Mensagem" target="response"/>
+            <param datatype="string" format="None" formatvalue="" name="Sucesso" sms-name="" src="//Sucesso" target="response"/>
+            <param datatype="number" format="None" formatvalue="" name="opstatus" sms-name="" src="" target=""/>
+            <param datatype="string" format="None" formatvalue="" name="errmsg" sms-name="" src="" target=""/>
+            <param datatype="number" format="None" formatvalue="" name="httpStatusCode" sms-name="" src="" target=""/>
+         </service-output>
+      </service>
+      <service cachable="false" cacheduration="" id="Subjects" passwordencrypted="true" smscode="" smsenabled="false" type="jsonConnector">
+         <service-config>
+            <config-param name="endpointUrl" value="http://web.sistemas.pucminas.br/PUCMobile/Academico/v1/TesteService.svc/BuscarDisciplinas"/>
+            <config-param name="postprocessorname" value=""/>
+            <config-param name="preprocessorname" value=""/>
+            <config-param name="urlprovider" value=""/>
+            <config-param name="dataprovider" value=""/>
+            <config-param name="sockettimeout" value=""/>
+            <config-param name="includecookies" value=""/>
+            <config-param name="proxyname" value=""/>
+            <config-param name="proxyport" value=""/>
+            <config-param name="proxyusername" value=""/>
+            <config-param name="http.method" value="POST"/>
+            <config-param name="isembedxmlpresent" value="false"/>
+            <config-param name="ignorehttpproxy" value="false"/>
+            <config-param name="responseEncoding" value="UTF-8"/>
+            <config-param name="server.auth.mode" value="basic"/>
+            <config-param name="server.auth.host" value=""/>
+            <config-param name="server.auth.ntlm.domain" value=""/>
+         </service-config>
+         <service-input>
+            <header>
+               <param datatype="string" format="None" formatvalue="" name="X-PUC-Mobile-Ver" sms-name="" src="request" target="" value="1.0"/>
+            </header>
+         </service-input>
+         <service-output>
+            <dataset id="Subjects" src="BuscarDisciplinasResult/Valor">
+               <param datatype="string" format="None" formatvalue="" name="CodDiciplina" sms-name="" src="./CodDiciplina" target="response"/>
+               <param datatype="string" format="None" formatvalue="" name="CodTurma" sms-name="" src="./CodTurma" target="response"/>
+               <param datatype="string" format="None" formatvalue="" name="CodTurmaExibicao" sms-name="" src="./CodTurmaExibicao" target="response"/>
+               <param datatype="string" format="None" formatvalue="" name="NomeDisciplina" sms-name="" src="./NomeDisciplina" target="response"/>
+            </dataset>
+            <param datatype="string" format="None" formatvalue="" name="Mensagem" sms-name="" src="//Mensagem" target="response"/>
+            <param datatype="string" format="None" formatvalue="" name="Sucesso" sms-name="" src="//Sucesso" target="response"/>
+            <param datatype="number" format="None" formatvalue="" name="opstatus" sms-name="" src="" target=""/>
+            <param datatype="string" format="None" formatvalue="" name="errmsg" sms-name="" src="" target=""/>
+            <param datatype="number" format="None" formatvalue="" name="httpStatusCode" sms-name="" src="" target=""/>
+         </service-output>
+      </service>
+   </services>
+</application>

@@ -1,0 +1,4 @@
+function AS_Segment_fde3a7b53c8b48d7aaee101ab5f1121a(eventobject, sectionNumber, rowNumber) {
+frmCampusDetails.show();
+
+}

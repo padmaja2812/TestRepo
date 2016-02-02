@@ -1,0 +1,22 @@
+{
+	"AS_Button_b4c11cfe03884e60ae7e46e6ca34c037": {
+		"id": "AS_Button_b4c11cfe03884e60ae7e46e6ca34c037",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM___fe809e2b145b43da93ac84dc20c50d37",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmSGALogin",
+				"formKUID": "9076301b484b42ecbdc742599132520f",
+				"parentId": "",
+				"callbackType": null
+			}
+		]
+	}
+}

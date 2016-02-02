@@ -1,0 +1,4 @@
+function AS_Segment_176e81ec5ae34b92a2dffce947a21635(eventobject, sectionNumber, rowNumber) {
+onClickMenuHome();
+
+}

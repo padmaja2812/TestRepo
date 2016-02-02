@@ -1,0 +1,5 @@
+function AS_Button_c3b86be01dd74daaac512e483b1d7cfc(eventobject) {
+callServiceNoticias();
+frmNoticies.show();
+
+}

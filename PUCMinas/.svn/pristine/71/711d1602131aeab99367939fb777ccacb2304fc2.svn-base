@@ -1,0 +1,4 @@
+function AS_Segment_2438a65d746e471c83ecb90da2952ada(eventobject, sectionNumber, rowNumber) {
+onClickSubjects();
+
+}

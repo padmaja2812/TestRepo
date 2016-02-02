@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pxsObject>
+    <appSmsCode></appSmsCode>
+    <plainxmlservice>
+        <authenticationMode>basic</authenticationMode>
+        <cacheduration></cacheduration>
+        <cacheable>false</cacheable>
+        <includecookies></includecookies>
+        <dataprovider></dataprovider>
+        <dcResponse/>
+        <encryptPwd>true</encryptPwd>
+        <escapeXML>false</escapeXML>
+        <group>other</group>
+        <httpmethod></httpmethod>
+        <id>Noticias</id>
+        <identityProvider></identityProvider>
+        <identityProviderName></identityProviderName>
+        <ignoreProxy>false</ignoreProxy>
+        <intemplate></intemplate>
+        <ntlmDomain></ntlmDomain>
+        <ntlmHost></ntlmHost>
+        <outtemplate>&lt;rss version="2.0"&gt;
+   &lt;channel&gt;
+      &lt;title&gt;Portal PUC Minas&lt;/title&gt;
+      &lt;link&gt;http://www.pucminas.br&lt;/link&gt;
+      &lt;description&gt;Pontifï¿½cia Universidade Catï¿½lica de Minas Gerais&lt;/description&gt;
+      &lt;language&gt;pt-br&lt;/language&gt;
+      &lt;copyright&gt;Pontifï¿½cia Universidade Catï¿½lica de Minas Gerais&lt;/copyright&gt;
+      &lt;image&gt;
+         &lt;title&gt;Pontifï¿½cia Universidade Catï¿½lica de Minas Gerais&lt;/title&gt;
+         &lt;width&gt;70&lt;/width&gt;
+         &lt;height&gt;66&lt;/height&gt;
+         &lt;url&gt;http://www.pucminas.br/rss/imgs/pucminas.jpg&lt;/url&gt;
+         &lt;link&gt;http://www.pucminas.br&lt;/link&gt;
+      &lt;/image&gt;
+      &lt;webMaster&gt;ai@pucminas.br (Assessoria de Imprensa)&lt;/webMaster&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[PUC Minas oferecerï¿½ Mestrado Interinstitucional em Direito na Faculdade Paraï¿½so, no Cearï¿½]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8693&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Mon, 21 Dec 2015 15:17:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[A PUC Minas oferecerï¿½ Mestrado Insterinstitucional (Minter) em Direito na Faculdade Paraï¿½so, localiz...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[PUC Minas bem avaliada no Conceito Preliminar de Curso]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8692&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Mon, 21 Dec 2015 12:58:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[A PUC Minas teve uma avaliaï¿½ï¿½o positiva no CPC (Conceito Preliminar de Curso) referente a 2014, calc...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Missa de preparaï¿½ï¿½o para o Natal: um ano de muitos desafios]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8691&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Fri, 18 Dec 2015 14:57:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Durante a missa de preparaï¿½ï¿½o para o Natal, celebrada na manhï¿½ desta sexta-feira, 18 de dezembro, no...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Edital Universal: PUC Minas tem 18 projetos aprovados pela Fapemig]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8690&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Thu, 17 Dec 2015 16:10:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[A PUC Minas teve 18 projetos de pesquisa aprovados a partir do Edital Universal 2015, da Fundaï¿½ï¿½o de...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Doutorado em Ciï¿½ncias da Religiï¿½o ï¿½ aprovado pela Capes: inscriï¿½ï¿½es de 1ï¿½ a 22 de fevereiro]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8689&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Thu, 17 Dec 2015 11:53:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[As inscriï¿½ï¿½es para o doutorado do Programa de Pï¿½s-graduaï¿½ï¿½o stricto sensu em Ciï¿½ncias da Religiï¿½o, a...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Prï¿½-reitoria de Extensï¿½o: Cursos gratuitos de capacitaï¿½ï¿½o de pessoas com deficiï¿½ncia]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8687&amp;unidade=204000000&amp;pagina=1401]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Wed, 16 Dec 2015 15:43:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Estï¿½o abertas, atï¿½ 21 de dezembro, as inscriï¿½ï¿½es para os cursos gratuitos de Capacitaï¿½ï¿½o para o Trab...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Nova oferta de vagas pelo Enem]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8685&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Wed, 16 Dec 2015 15:31:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[A PUC Minas estï¿½ com inscriï¿½ï¿½es abertas para processo seletivo de nova oferta de vagas nos cursos de...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Bolsas parciais para ex-alunos graduados na PUC Minas]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8686&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Wed, 16 Dec 2015 15:30:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[A PUC Minas lanï¿½a programa de bolsas parciais de estudos, de 50% no valor da semestralidade, para ex...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Impeachment: PUC Minas se manifesta sobre o atual momento polï¿½tico]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8684&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Wed, 16 Dec 2015 15:01:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Tendo em vista o acolhimento do pedido de abertura do processo de impeachment contra a presidente da...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Nova oferta de vagas pelo Enem: inscriï¿½ï¿½es abertas atï¿½ 17 de janeiro]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[/vestibular/enem-2016-01]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Wed, 16 Dec 2015 06:00:00 -0300&lt;/pubDate&gt;
+         &lt;description/&gt;
+         &lt;category&gt;&lt;![CDATA[Destaques]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Ex-alunos tï¿½m 50% de bolsa para uma nova graduaï¿½ï¿½o: inscriï¿½ï¿½es estï¿½o abertas, atï¿½ 17 de janeiro, para ex-alunos de graduaï¿½ï¿½o formados na PUC Minas]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[/exalunos]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Wed, 16 Dec 2015 06:00:00 -0300&lt;/pubDate&gt;
+         &lt;description/&gt;
+         &lt;category&gt;&lt;![CDATA[Destaques]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Escola de Teatro: inscriï¿½ï¿½es abertas para cursos profissionalizantes e de curta duraï¿½ï¿½o]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8679&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Mon, 14 Dec 2015 16:12:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[A Escola de Teatro PUC Minas estï¿½ com inscriï¿½ï¿½es abertas&amp;nbsp;para o primeiro semestre de 2016.&amp;nbsp...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[PUC Minas e Comissï¿½o da Verdade de Minas Gerais assinam termo de cooperaï¿½ï¿½o recï¿½proca]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8677&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Thu, 10 Dec 2015 16:42:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Durante a assinatura de termo de cooperaï¿½ï¿½o recï¿½proca entre a PUC Minas e a Comissï¿½o da Verdade de M...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Professores representam grupos de trabalhos da Capes]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8676&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Thu, 10 Dec 2015 14:07:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Trï¿½s professores da Universidade foram designados pela Coordenaï¿½ï¿½o de Aperfeiï¿½oamento de Pessoal de ...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Fï¿½rias: Confira o funcionamento do campus Contagem nos meses de dezembro e janeiro]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8673&amp;unidade=202000000&amp;pagina=796]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Mon, 07 Dec 2015 11:11:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Com o encerramento do semestre letivo, a PUC Minas em Contagem adotarï¿½ horï¿½rio de funcionamento dife...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Inscriï¿½ï¿½es abertas para pï¿½s-graduaï¿½ï¿½o na PUC Minas em Contagem: Candidatos podem se inscrever atï¿½ 20 de fevereiro]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8672&amp;unidade=202000000&amp;pagina=796]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Fri, 04 Dec 2015 17:43:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[A PUC Minas estï¿½ com inscriï¿½ï¿½es abertas para cursos de pï¿½s-graduaï¿½ï¿½o no campus Contagem. Os interess...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Aprofundamento Bï¿½blico-teolï¿½gico]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8670&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Fri, 04 Dec 2015 16:26:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[O Anima PUC Minas ï¿½ Sistema Avanï¿½ado de Formaï¿½ï¿½o estï¿½ com inscriï¿½ï¿½es abertas para o Aprofundamento B...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Inaugurada a nova sede da Fundaï¿½ï¿½o Mariana Resende Costa]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8665&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Fri, 04 Dec 2015 15:40:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Criada hï¿½ 37 anos para contribuir com a PUC Minas no desenvolvimento do ensino, da pesquisa e da ext...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Pï¿½s-graduaï¿½ï¿½o: Inscriï¿½ï¿½es abertas atï¿½ 20 de fevereiro]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8664&amp;unidade=203000000&amp;pagina=827]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Thu, 03 Dec 2015 14:37:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Inscriï¿½ï¿½es abertas para pï¿½s-graduaï¿½ï¿½o
+na PUC Minas em Betimï¿½Candidatos podem se inscrever atï¿½ 20 de...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[PUC Minas cria grupo de estudo sobre mineraï¿½ï¿½o e assuntos correlatos]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8663&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Wed, 02 Dec 2015 14:36:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[A PUC Minas criou, por meio de Portaria da Reitoria, Grupo de Estudo com a finalidade de obter subsï¿½...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Lato sensu: pï¿½s-graduaï¿½ï¿½o presencial e a distï¿½ncia]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8648&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Fri, 20 Nov 2015 10:41:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[A PUC Minas estarï¿½ com inscriï¿½ï¿½es abertas para mais de 200 cursos de pï¿½s-graduaï¿½ï¿½o lato sensu. A par...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Destaques]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Pesquisa PUC Minas: Publicado Anais da Pesquisa 2015]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8634&amp;unidade=204000000&amp;pagina=1401]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Fri, 13 Nov 2015 14:10:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Integram os anais artigos sobre projetos apresentados durante a etapa Sï¿½o Gabriel do 22ï¿½ Seminï¿½rio d...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Destaques]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Curso recebeu no quatro em avaliaï¿½ï¿½o do MEC: Engenharia Civil]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8615&amp;unidade=204000000&amp;pagina=1401]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Thu, 05 Nov 2015 13:29:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[O Curso de Engenharia Civil das unidade Sï¿½o Gabriel, que integra o Instituto Politï¿½cnico (Ipuc) da U...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Destaques]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Curso Intensivo de Teologia Fï¿½, Reflexï¿½o e Diï¿½logo]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8607&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Fri, 30 Oct 2015 11:44:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[O Centro de Formaï¿½ï¿½o de Agentes de Pastoral (Cefap), ï¿½rgï¿½o do Anima PUC Minas ï¿½ Sistema Avanï¿½ado de ...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Encontro Arquidiocesano de Pastoral: Dom Clï¿½udio Hummes realiza conferï¿½ncia em evento da Arquidiocese de BH]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8602&amp;unidade=204000000&amp;pagina=1401]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Thu, 29 Oct 2015 11:20:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[O cardeal emï¿½rito de Sï¿½o Paulo, dom Clï¿½udio Hummes, farï¿½ conferï¿½ncia inspirada na exortaï¿½ï¿½o apostï¿½li...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Destaques]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Microsoft Innovation Center: Inovaï¿½ï¿½o e Tecnologia em foco]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8601&amp;unidade=204000000&amp;pagina=1401]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Thu, 29 Oct 2015 10:34:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[O Microsoft Innovation Center (MIC),instalado na Unidade Sï¿½o Gabriel da PUC Minas, realizou na manhï¿½...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Destaques]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[FIES 2015: Confira a lista de documentos.]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://pucminas.br/documentos/lista-documentos-fies-corrigida-2015.pdf]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Mon, 17 Aug 2015 14:24:00 -0300&lt;/pubDate&gt;
+         &lt;description/&gt;
+         &lt;category&gt;&lt;![CDATA[Destaques]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Colegiado de Direito e Coordenaï¿½ï¿½o de Extensï¿½o promovem colï¿½quio]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8380&amp;unidade=601000000&amp;pagina=840]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Thu, 18 Jun 2015 15:48:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[O Colegiado do Curso de Direito e a Coordenaï¿½ï¿½o de Extensï¿½o, do campus Arcos, promovem, em agosto e ...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Destaques]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Aula inaugural do Curso de Direito]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8379&amp;unidade=601000000&amp;pagina=840]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Thu, 18 Jun 2015 15:31:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[O Curso de Direito do campus Arcos promoverï¿½ aula inaugural do 2ï¿½ semestre, no dia 10 de agosto, sob...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Destaques]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Mesa-Redonda: A carne e os ossos do ofï¿½cio ï¿½ Reflexï¿½es sobre invisibilidades do prazer e do sofrimento no campo do trabalho humano]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8222&amp;unidade=601000000&amp;pagina=840]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Mon, 13 Apr 2015 16:29:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[
+Profa. Ms. Isabel Cristina da Silva Arantes ï¿½ Mestre e Doutoranda em Administraï¿½ï¿½o (UFLA), profess...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[ Curso de Direito bem avaliado pelo MEC]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8221&amp;unidade=601000000&amp;pagina=840]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Mon, 13 Apr 2015 16:27:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[O Curso de Direito da PUC Minas em Arcos recebeu os avaliadores do MEC nos ï¿½ltimos dias 9 e 10 de ma...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Destaques]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Colï¿½quios: Confira a programaï¿½ï¿½o para o mï¿½s de abril]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=8224&amp;unidade=601000000&amp;pagina=840]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Thu, 09 Apr 2015 12:37:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[10/04/2015 ï¿½ 16:00 ï¿½s 18:00 Diï¿½logos com Zygmunt Baumann ï¿½ ï¿½Vidas a Crï¿½ditoï¿½ Prof. Ms. Moisï¿½s August...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Congresso Mundial de Universidades Catï¿½licas: Acesse os Anais da ediï¿½ï¿½o de 2013 do evento]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[/cmuc/anais2013.pdf]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Sun, 01 Mar 2015 00:00:00 -0300&lt;/pubDate&gt;
+         &lt;description/&gt;
+         &lt;category&gt;&lt;![CDATA[Notï¿½cias]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Inscriï¿½ï¿½es abertas para pï¿½s-graduaï¿½ï¿½o presencial em Arcos e Divinï¿½polis]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=7712&amp;unidade=601000000&amp;pagina=840]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Fri, 30 May 2014 14:34:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Candidatos podem se inscrever atï¿½ 11 de agosto
+ O IEC PUC Minas estï¿½ com inscriï¿½ï¿½es abertas para cu...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Destaques]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[PUC Minas lanï¿½a pï¿½s-graduaï¿½ï¿½o presencial no Serro]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=7706&amp;unidade=701000000&amp;pagina=475]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Thu, 29 May 2014 15:53:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Candidatos podem se inscrever atï¿½ 11 de agosto
+ O IEC PUC Minas lanï¿½a o curso de pï¿½s-graduaï¿½ï¿½o pres...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Destaques]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Certificados dos congressistas jï¿½ estï¿½o disponï¿½veis]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.hbatools2.com.br/tools/credenciamento/formulario.asp?e=CMUC]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Fri, 26 Jul 2013 12:00:00 -0300&lt;/pubDate&gt;
+         &lt;description/&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Conferï¿½ncia A Missï¿½o das Universidades Catï¿½licas e das Pastorais Universitï¿½rias nos ï¿½Novos Temposï¿½]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=7001&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Mon, 22 Jul 2013 12:25:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[A conferï¿½ncia de encerramento do Congresso Mundial de Universidades Catï¿½licas (CMUC), no domingo, 21...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Encerramento do CMUC tem homenagem a todos os participantes]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=7000&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Mon, 22 Jul 2013 11:51:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[
+"A PUC Minas nï¿½o serï¿½ mais a mesma depois deste Congresso, serï¿½ melhor!". Com essas palavras, o re...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Fï¿½rum de Reitores: Os Desafios da Comunicaï¿½ï¿½o para as Universidades Catï¿½licas]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6998&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Sun, 21 Jul 2013 13:31:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Na manhï¿½ deste domingo, 21 de julho, mesa-redonda final do Fï¿½rum de Reitores, sobre Os desafios da C...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[A importï¿½ncia do diï¿½logo na sociedade plural]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6997&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Sun, 21 Jul 2013 13:10:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA["A universidade precisa ser pensada como um projeto cultural humanista queï¿½necessita ser reinventado...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Ato Ecumï¿½nico pede por justiï¿½a e paz entre as religiï¿½es e os povos]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6996&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Sun, 21 Jul 2013 10:27:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[O inï¿½cio das atividades deste domingo, 21 de julho, ï¿½ltimo dia de realizaï¿½ï¿½o do Congresso Mundial de...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Bunker Roy: educador indiano fala sobre a Universidade Pï¿½s Descalï¿½os]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6995&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Sun, 21 Jul 2013 10:24:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[A Universidade Pï¿½s Descalï¿½os, iniciativa do educador e ativista social indiano Bunker Roy, foi o tem...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Fï¿½rum dos Reitores: Internacionalizaï¿½ï¿½o de universidades catï¿½licas em debate]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6994&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Sat, 20 Jul 2013 19:56:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[A Internacionalizaï¿½ï¿½o da educaï¿½ï¿½o de estudantes e professores foi tema central das discussï¿½es da mes...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Universidades catï¿½licas: pesquisa internacional apresenta perfil dos estudantes]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6993&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Sat, 20 Jul 2013 16:13:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Uma prï¿½via do perfil do jovem estudante das universidades catï¿½licas do mundo foi revelada na manhï¿½ d...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Debate: especialistas alertam para a necessidade de valorizaï¿½ï¿½o do amor]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6992&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Sat, 20 Jul 2013 14:57:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Como alcanï¿½ar o amor integral neste novo milï¿½nio. Essa foi a questï¿½o colocada pelos participantes da...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Antonio Spadaro: Os meios de comunicaï¿½ï¿½o sï¿½o um bom lugar para se buscar Deus]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6991&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Sat, 20 Jul 2013 13:05:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[
+"O ambiente digital ï¿½ um bom lugar para procurar Deus. O local nos chama a estar prï¿½ximos Dele. Ho...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Padre Josï¿½ Tolentino de Mendonï¿½a: desafios para a busca do amor integral]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6990&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Sat, 20 Jul 2013 12:45:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Em uma apresentaï¿½ï¿½o inï¿½dita, o padre portuguï¿½s Josï¿½ Tolentino de Mendonï¿½a propï¿½s uma reflexï¿½o sobre ...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Oraï¿½ï¿½o e celebraï¿½ï¿½o: congresso recebe ï¿½cone de Nossa Senhora Sede da Sabedoria]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6989&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Sat, 20 Jul 2013 10:57:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[O Congresso Mundial de Universidades Catï¿½licas (CMUC) recebeu o ï¿½cone de Nossa Senhora Sede da Sabed...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Fï¿½rum de Reitores: gestï¿½o da educaï¿½ï¿½o catï¿½lica em debate]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6988&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Sat, 20 Jul 2013 09:12:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Tomar decisï¿½es importantes para o mundo contemporï¿½neo e dar retorno econï¿½mico. Para Michael James, d...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Desafio da vivï¿½ncia da fï¿½: tema ï¿½ abordado por Dom Bruno Forte e padre Libï¿½nio]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6987&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Fri, 19 Jul 2013 17:48:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Como a vivï¿½ncia da fï¿½ na cultura tem se tornado um desafio para muitos foi o tema central da palestr...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Congresso: ao lado do cardeal ganï¿½s Peter Turkson, Dom Walmor preside missa de abertura]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6986&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Fri, 19 Jul 2013 16:18:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[A manhï¿½ desta sexta-feira, 19 de julho, foi marcada por muita emoï¿½ï¿½o e oraï¿½ï¿½o na missa de abertura d...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Educaï¿½ï¿½o: Michael James fala do papel humanizador das instituiï¿½ï¿½es de ensino]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6985&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Fri, 19 Jul 2013 16:00:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Construir uma sociedade mais humanizada foi o desafio proposto pelo americano Michael James na sua p...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Cardeal Peter Turkson: empresï¿½rios devem trabalhar para transformar a sociedade]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6984&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Fri, 19 Jul 2013 15:33:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Os empresï¿½rios devem superar a divisï¿½o entre fï¿½ e atividade econï¿½mica e identificar pessoas que poss...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[CMUC: cerca de 1.500 participantes, de 30 paï¿½ses diferentes, presentes no evento]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6982&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Fri, 19 Jul 2013 13:15:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Aproximadamente 1.500 pessoas, vindas de 30 paï¿½ses diferentes, estï¿½o na PUC Minas, entre os dias 18 ...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[CMUC: Compromisso com a renovaï¿½ï¿½o social dos novos tempos]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6981&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Fri, 19 Jul 2013 12:50:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA["Nï¿½o podemos deixar de estudar e refletir sobre os novos tempos e sentidos. A temï¿½tica do Congresso ...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Novos tempos, novos sentidos: atividades se iniciam com apresentaï¿½ï¿½o institucional]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6980&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Fri, 19 Jul 2013 12:21:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Nesta manhï¿½ de quinta-feira, dia 18, o chefe de gabineteï¿½da Reitoriaï¿½da PUC Minas e presidente da co...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Pastorais Universitï¿½rias: encontro reï¿½ne jovens latino-americanos]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6978&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Thu, 18 Jul 2013 16:49:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Com o Teatro Joï¿½o Paulo II, no campus Coraï¿½ï¿½o Eucarï¿½stico da PUC Minas, lotado por uma animada plate...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Fï¿½rum de Reitores: Encontro debate prï¿½ticas de gestï¿½o das universidades catï¿½licas]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6977&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Tue, 16 Jul 2013 17:24:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[O Fï¿½rum de Reitores,ï¿½que aconteceï¿½entre os dias 19 e 21 de julho,ï¿½integra a programaï¿½ï¿½o especial do ...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[CMUC: Encontro Latino-americano de Pastorais Universitï¿½rias]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6976&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Tue, 16 Jul 2013 12:38:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[Estï¿½ marcado para esta quinta-feira, 18 de julho, o II Encontro Latino-americano de Pastorais Univer...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[PUC Minas sedia o Congresso Mundial de Universidades Catï¿½licas; veja a programaï¿½ï¿½o completa]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=6974&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Tue, 16 Jul 2013 11:43:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[A PUC Minas estï¿½ pronta para receber a segunda ediï¿½ï¿½o do Congresso Mundial de Universidades Catï¿½lica...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[CMUC]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Guia do Estudante 2006: Cursos da PUC entre os melhores do Paï¿½s]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=607&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Mon, 22 Aug 2005 00:00:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[O curso de Ciï¿½ncias Contï¿½beis, da PUC Minas em Contagem, e o de Relaï¿½ï¿½es Internacionais, campus Cora...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Destaques]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;title&gt;&lt;![CDATA[Comissï¿½o de sites: Normas para elaboraï¿½ï¿½o, atualizaï¿½ï¿½o e publicaï¿½ï¿½o de sites Institucionais da PUC Minas]]&gt;&lt;/title&gt;
+         &lt;link&gt;&lt;![CDATA[http://www.pucminas.br/noticias/noticia.php?codigo=220&amp;unidade=201000000&amp;pagina=18]]&gt;&lt;/link&gt;
+         &lt;pubDate&gt;Mon, 28 Mar 2005 00:00:00 -0300&lt;/pubDate&gt;
+         &lt;description&gt;&lt;![CDATA[A PUC Minas reconhece a importï¿½ncia das publicaï¿½ï¿½es eletrï¿½nicas da Universidade, em especial aquelas...]]&gt;&lt;/description&gt;
+         &lt;category&gt;&lt;![CDATA[Destaques]]&gt;&lt;/category&gt;
+      &lt;/item&gt;
+   &lt;/channel&gt;
+&lt;/rss&gt;
+</outtemplate>
+        <outTemplateHeader>Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Date: Wed, 23 Dec 2015 13:05:23 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Keep-Alive: timeout=15, max=100
+Content-Type: text/html
+Connection: Keep-Alive
+Server: Apache
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+</outTemplateHeader>
+        <outparam>
+            <category></category>
+            <datatype>string</datatype>
+            <defaultvalue></defaultvalue>
+            <description></description>
+            <encode>true</encode>
+            <format>None</format>
+            <formatvalue></formatvalue>
+            <id>Noticias</id>
+            <invalue></invalue>
+            <name></name>
+            <order></order>
+            <passNull>false</passNull>
+            <recordid></recordid>
+            <smsname></smsname>
+            <source>//channel</source>
+            <srcformatvalue></srcformatvalue>
+            <target>response</target>
+            <targetdatatype></targetdatatype>
+            <testvalue></testvalue>
+            <value></value>
+        </outparam>
+        <outparam>
+            <category></category>
+            <datatype>string</datatype>
+            <defaultvalue></defaultvalue>
+            <description></description>
+            <encode>true</encode>
+            <format>None</format>
+            <formatvalue></formatvalue>
+            <id>title</id>
+            <invalue></invalue>
+            <name></name>
+            <order></order>
+            <passNull>false</passNull>
+            <recordid></recordid>
+            <smsname></smsname>
+            <source>item/title</source>
+            <srcformatvalue></srcformatvalue>
+            <target>response</target>
+            <targetdatatype></targetdatatype>
+            <testvalue></testvalue>
+            <value>Noticias</value>
+        </outparam>
+        <outparam>
+            <category></category>
+            <datatype>string</datatype>
+            <defaultvalue></defaultvalue>
+            <description></description>
+            <encode>true</encode>
+            <format>None</format>
+            <formatvalue></formatvalue>
+            <id>link</id>
+            <invalue></invalue>
+            <name></name>
+            <order></order>
+            <passNull>false</passNull>
+            <recordid></recordid>
+            <smsname></smsname>
+            <source>item/link</source>
+            <srcformatvalue></srcformatvalue>
+            <target>response</target>
+            <targetdatatype></targetdatatype>
+            <testvalue></testvalue>
+            <value>Noticias</value>
+        </outparam>
+        <outparam>
+            <category></category>
+            <datatype>string</datatype>
+            <defaultvalue></defaultvalue>
+            <description></description>
+            <encode>true</encode>
+            <format>None</format>
+            <formatvalue></formatvalue>
+            <id>pubDate</id>
+            <invalue></invalue>
+            <name></name>
+            <order></order>
+            <passNull>false</passNull>
+            <recordid></recordid>
+            <smsname></smsname>
+            <source>item/pubDate</source>
+            <srcformatvalue></srcformatvalue>
+            <target>response</target>
+            <targetdatatype></targetdatatype>
+            <testvalue></testvalue>
+            <value>Noticias</value>
+        </outparam>
+        <outparam>
+            <category></category>
+            <datatype>string</datatype>
+            <defaultvalue></defaultvalue>
+            <description></description>
+            <encode>true</encode>
+            <format>None</format>
+            <formatvalue></formatvalue>
+            <id>description</id>
+            <invalue></invalue>
+            <name></name>
+            <order></order>
+            <passNull>false</passNull>
+            <recordid></recordid>
+            <smsname></smsname>
+            <source>item/description</source>
+            <srcformatvalue></srcformatvalue>
+            <target>response</target>
+            <targetdatatype></targetdatatype>
+            <testvalue></testvalue>
+            <value>Noticias</value>
+        </outparam>
+        <outparam>
+            <category></category>
+            <datatype>string</datatype>
+            <defaultvalue></defaultvalue>
+            <description></description>
+            <encode>true</encode>
+            <format>None</format>
+            <formatvalue></formatvalue>
+            <id>category</id>
+            <invalue></invalue>
+            <name></name>
+            <order></order>
+            <passNull>false</passNull>
+            <recordid></recordid>
+            <smsname></smsname>
+            <source>item/category</source>
+            <srcformatvalue></srcformatvalue>
+            <target>response</target>
+            <targetdatatype></targetdatatype>
+            <testvalue></testvalue>
+            <value>Noticias</value>
+        </outparam>
+        <password></password>
+        <postclassname></postclassname>
+        <preclassname></preclassname>
+        <proxyname></proxyname>
+        <proxyport></proxyport>
+        <proxypwd></proxypwd>
+        <proxyuserid></proxyuserid>
+        <responseencoding>ISO-8859-1</responseencoding>
+        <smscode></smscode>
+        <smsenabled>false</smsenabled>
+        <timeout></timeout>
+        <url>http://www.pucminas.br/rss/rss_xml.php</url>
+        <urlprovider></urlprovider>
+        <userid></userid>
+    </plainxmlservice>
+</pxsObject>

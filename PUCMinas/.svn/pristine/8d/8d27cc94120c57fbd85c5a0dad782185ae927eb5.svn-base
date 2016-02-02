@@ -1,0 +1,30 @@
+{
+	"AS_Image_f565418d74d14f17a74df7214051d0ee": {
+		"id": "AS_Image_f565418d74d14f17a74df7214051d0ee",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			},
+			{
+				"datatype": "string",
+				"name": "x"
+			},
+			{
+				"datatype": "string",
+				"name": "y"
+			}
+		],
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM___674b73ad07474f08ae247e3b7c138349",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmSGAHome",
+				"formKUID": "88601fe047ab45eca318d726ba8f32f9",
+				"parentId": "",
+				"callbackType": null
+			}
+		]
+	}
+}

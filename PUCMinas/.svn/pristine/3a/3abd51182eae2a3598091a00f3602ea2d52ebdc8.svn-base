@@ -1,0 +1,4 @@
+function AS_Form_b625f7408770469c9917fdc8ac06092f(eventobject) {
+kony.print("Do nothing");
+
+}

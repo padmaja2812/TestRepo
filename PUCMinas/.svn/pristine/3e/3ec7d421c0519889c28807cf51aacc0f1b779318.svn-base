@@ -1,0 +1,22 @@
+{
+	"AS_Button_79137a96e34b4997bf918e4b010ef387": {
+		"id": "AS_Button_79137a96e34b4997bf918e4b010ef387",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM__onClick_dc828a887d014f8c8851261e3a068bb5",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmNoticies",
+				"formKUID": "bccaf0245fad45fda590968bff24828f",
+				"parentId": "",
+				"callbackType": null
+			}
+		]
+	}
+}

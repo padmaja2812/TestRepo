@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pxsObject>
+    <appSmsCode></appSmsCode>
+    <plainxmlservice>
+        <authenticationMode>basic</authenticationMode>
+        <cacheduration></cacheduration>
+        <cacheable>false</cacheable>
+        <includecookies></includecookies>
+        <dataprovider></dataprovider>
+        <dcResponse/>
+        <encryptPwd>true</encryptPwd>
+        <escapeXML>false</escapeXML>
+        <group>other</group>
+        <httpmethod></httpmethod>
+        <id>Campus</id>
+        <identityProvider></identityProvider>
+        <identityProviderName></identityProviderName>
+        <ignoreProxy>false</ignoreProxy>
+        <intemplate></intemplate>
+        <ntlmDomain></ntlmDomain>
+        <ntlmHost></ntlmHost>
+        <outtemplate>{
+   "Img": null,
+   "ListaUnidades": [
+      {
+         "Img": "http://web.sistemas.pucminas.br/PUCMobile/Institucional/v1/img/UnidadesBarreiro.jpg",
+         "Lat": -19.9771271,
+         "LinkAcessoExterno": "http://pucminas.br/destaques/unidades.php?unidade=206000000&amp;pagina=883",
+         "Lon": -44.0259757,
+         "NomeMenu": "Barreiro",
+         "TextoApresentacao": "&lt;p&gt;Há mais de dez anos, a PUC Minas no Barreiro oferece completa infraestrutura para o desenvolvimento do conhecimento científico e tecnológico, por meio do ensino, pesquisa e extensão. Está localizada a 30 minutos da região Centro-sul de Belo Horizonte, próxima a uma estação de ônibus, restaurante popular e batalhão da Polícia Militar.&lt;\/p&gt;\r\n&lt;p&gt;A Unidade oferece dez cursos de graduação presenciais, entre eles, dois na área de tecnologia. Também é polo de apoio presencial da PUC Minas Virtual e oferece cursos de pós-graduação lato sensu do Instituto de Educação Continuada (IEC PUC Minas). A infraestrutura compreende cinco prédios, com cerca de 90 salas de aula, além de laboratórios de informática, laboratórios específicos de cursos, dois auditórios, biblioteca, rede de acesso à internet sem fio (wireless) e estacionamento para carros e motos.&lt;\/p&gt;\r\n&lt;p&gt;Uma das marcas da PUC Minas no Barreiro, a estreita relação com a comunidade pode ser percebida nos diversos projetos de extensão, que contribuem para a melhoria nas condições de vida da população e aprimoramento na formação cidadã e humanista de professores, alunos e funcionários, na perspectiva do desenvolvimento integral do ser humano.&lt;\/p&gt;",
+         "TextoContato": "&lt;p&gt;Telefone geral: (31) 3319-4444&lt;\/p&gt;",
+         "TextoLocalizacao": "&lt;p&gt;Av. Afonso Vaz de Melo, 1.200 - Barreiro de Baixo - CEP: 30640-070 - Belo Horizonte - MG&lt;\/p&gt;",
+         "Titulo": "Barreiro"
+      },
+      {
+         "Img": "http://web.sistemas.pucminas.br/PUCMobile/Institucional/v1/img/UnidadesBetim.jpg",
+         "Lat": -19.954935,
+         "LinkAcessoExterno": "http://pucminas.br/destaques/unidades.php?unidade=203000000&amp;pagina=884",
+         "Lon": -44.198895,
+         "NomeMenu": "Betim",
+         "TextoApresentacao": "&lt;p&gt;Atualmente com 5272 alunos, 343 professores e 149 funcionários, a PUC Minas em  Betim confirma a vocação em aliar a pesquisa universitária ao trabalho comunitário, através de uma contribuição científica, social e cultural de todas as áreas de ensino da Universidade. O resultado é um ambiente acadêmico que favorece a realização de diversos projetos interdisciplinares integrados à comunidade.&lt;\/p&gt;\r\n&lt;p&gt;Inaugurado em 1995, o núcleo universitário oferece 12 cursos de graduação. A comunidade acadêmica dispõe de biblioteca, auditório, duas quadras de esporte e mais de uma dezena de laboratórios.&lt;\/p&gt;\r\n&lt;p&gt;O NUPSI \u2013 Núcleo de Referência em Psicologia, o SAJ \u2013 Serviço de Assistência Judiciária, o Centro de Estudos em Clínica e Cirurgia de Animais (Hospital Veterinário) e a Clínica de Fisioterapia são setores da unidade que, além de oferecer estágios e enriquecer a formação acadêmica do aluno, atendem à comunidade de Betim e do seu entorno.&lt;\/p&gt;",
+         "TextoContato": "&lt;p&gt;Telefone geral: (31) 3319-4444&lt;\/p&gt;",
+         "TextoLocalizacao": "&lt;p&gt;R. do Rosário, 1.081 Bairro Angola - Betim - MG - CEP 32604-115&lt;\/p&gt;",
+         "Titulo": "Betim"
+      },
+      {
+         "Img": "http://web.sistemas.pucminas.br/PUCMobile/Institucional/v1/img/UnidadesContagem.jpg",
+         "Lat": -19.939666,
+         "LinkAcessoExterno": "http://pucminas.br/destaques/unidades.php?unidade=202000000&amp;pagina=885",
+         "Lon": -44.076256,
+         "NomeMenu": "Contagem",
+         "TextoApresentacao": "&lt;p&gt;A PUC Minas em Contagem, localizada no berço industrial de Contagem, possui cerca de cinco mil alunos e oferece os cursos de Administração, Administração com linha de formação em Comércio Exterior, Ciências Contábeis, Direito, Engenharia Mecânica, Geografia, Serviço Social e Sistemas de Informação. Criada em 1990, faz parte da história de Contagem, contribuindo para o desenvolvimento humano e social do município - a maioria dos alunos e funcionários reside na cidade.&lt;\/p&gt;\r\n&lt;p&gt;Continuamente ligada à população local, a PUC Minas em Contagem, através da extensão universitária, realiza ações sociais que buscam partilhar os saberes acadêmicos e contribuir para a melhoria da qualidade de vida da população.O núcleo universitário possui, também, o Centro de Climatologia TempoClima, que é referência nacional em informações sobre previsão do tempo e monitoramento das condições atmosféricas.&lt;\/p&gt;\r\n&lt;p&gt;Para propiciar ao aluno experiências que o aproximem do mercado de trabalho, a PUC Minas em Contagem executa projetos de pesquisa e de iniciação científica. Além disso, através do Instituto de Educação Continuada da PUC Minas, oferece cursos de pós-graduação nas mais diversas áreas do conhecimento.&lt;\/p&gt;",
+         "TextoContato": "&lt;p&gt;Telefone geral: (31) 3319-4444&lt;\/p&gt;",
+         "TextoLocalizacao": "&lt;p&gt;R. Rio Comprido, 4.580 - Contagem - MG - CEP 32010-025&lt;\/p&gt;",
+         "Titulo": "Contagem"
+      },
+      {
+         "Img": "http://web.sistemas.pucminas.br/PUCMobile/Institucional/v1/img/UnidadesCoracaoEucaristico.jpg",
+         "Lat": -19.923511,
+         "LinkAcessoExterno": "http://pucminas.br/destaques/unidades.php?unidade=201000000&amp;pagina=886",
+         "Lon": -43.9905831,
+         "NomeMenu": "Coração Eucarístico",
+         "TextoApresentacao": "&lt;p&gt;Criado em julho de 1958, o campus de Belo Horizonte é o maior dos campi da PUC Minas, com 331.179 m2. Possui uma biblioteca com um acervo aproximado de 270 mil livros, além de periódicos, videoteca, hemeroteca, CD-ROMs, apostilas, mapas, normas e catálogos técnicos, artigos, teses entre outros, dotada de um sistema de automação para facilitar a consulta dos estudantes e o gerenciamento de seus processos e serviços. Entre seus vários equipamentos estão o complexo poliesportivo, 250 laboratórios, uma editora, clínicas de atendimento de fisioterapia, fonoaudiologia, odontologia e psicológica e programas de bolsas de estudo. Neste universo convivem mais de 22 mil alunos distribuídos entre 44 cursos de graduação e 16 programas de pós-graduação stricto sensu, 1.833 professores e mais de 2 mil funcionários.&lt;\/p&gt;",
+         "TextoContato": "&lt;p&gt;Telefone geral: (31) 3319-4444&lt;\/p&gt;",
+         "TextoLocalizacao": "&lt;p&gt;Av. Dom José Gaspar, 500 - Coração Eucarístico - Belo Horizonte - MG - CEP 30535-901&lt;\/p&gt;",
+         "Titulo": "Coração Eucarístico"
+      },
+      {
+         "Img": "http://web.sistemas.pucminas.br/PUCMobile/Institucional/v1/img/UnidadesSaoGabriel.jpg",
+         "Lat": -19.859278,
+         "LinkAcessoExterno": "http://pucminas.br/destaques/unidades.php?unidade=204000000&amp;pagina=888",
+         "Lon": -43.918083,
+         "NomeMenu": "São Gabriel",
+         "TextoApresentacao": "&lt;p&gt;Cursos orientados às demandas do mercado de trabalho no século XXI, que se caracterizam pela aplicação de conceitos inovadores de ensino e pela formação de profissionais preocupados com a ética e a responsabilidade social. Este é o perfil da unidade São Gabriel, que tem infraestrutura disponível para atender a mais de 12 mil alunos. A unidade oferece 11 cursos de graduação em diversas áreas do conhecimento. Atenta às exigências do mercado no que tange a educação continuada, tem implementado a cada semestre novas opções de cursos especialização.&lt;\/p&gt;\r\n&lt;p&gt;Referência em Tecnologia da Informação como formadora de profissionais aptos a atender as exigências deste setor em contínua transformação, abriga o Mestrado em Informática, recomendado pela CAPES.&lt;\/p&gt;\r\n&lt;p&gt;A Pastoral na Universidade está presente de maneira vigorosa no cotidiano acadêmico e nas ações com a comunidade do entorno. O projeto Beira Linha, atua nas dimensões social, cultural e política trabalhando o desenvolvimento comunitário através da geração de emprego e renda e profissionalização.&lt;\/p&gt;\r\n&lt;p&gt;Em setembro a unidade realiza a SCAP \u2013 Semana de Ciência, Arte e Política, evento que integra ensino, pesquisa, extensão e Pastoral na Universidade através de conferências, atividades culturais, atividades em escolas da região, seminários e oficinas. Além da comunidade acadêmica da PUC Minas, todas as atividades são abertas à comunidade externa interessada em participar.&lt;\/p&gt;",
+         "TextoContato": "&lt;p&gt;Telefone geral: (31) 3319-4444&lt;\/p&gt;",
+         "TextoLocalizacao": "&lt;p&gt;Anel Rodoviário Km 23,5 - Rua Walter Ianni, 255 - São Gabriel - 31980-110 Belo Horizonte - MG&lt;\/p&gt;",
+         "Titulo": "São Gabriel"
+      },
+      {
+         "Img": "http://web.sistemas.pucminas.br/PUCMobile/Institucional/v1/img/UnidadesArcos.jpg",
+         "Lat": -20.286812,
+         "LinkAcessoExterno": "http://pucminas.br/destaques/unidades.php?unidade=601000000&amp;pagina=876",
+         "Lon": -45.537772,
+         "NomeMenu": "Arcos",
+         "TextoApresentacao": "&lt;p&gt;A PUC Minas chegou ao Centro-Oeste do Estado em 1999 na cidade de Arcos, a 215 km da capital. Fator de desenvolvimento na região, a presença da PUC é considerada estratégica para a qualificação profissional nas empresas da cidade de Arcos, que ocupa a posição de polo industrial na microrregião do Alto São Francisco, e de municípios circunvizinhos nos setores da indústria, comércio e serviços.&lt;\/p&gt;\r\n&lt;p&gt;Ao ser projetado em uma região com grande potencial econômico, o campus da PUC Minas tem a importante missão educacional na região centro-oeste de Minas, formando profissionais capazes de responder a expectativas regionais, além de incentivar a criação de novas organizações.&lt;\/p&gt;\r\n&lt;p&gt;O campus de Arcos recebe estudantes de diversas cidades mineiras e de outros estados brasileiros, que encontram na PUC Minas uma formação profissional de qualidade, com ênfase na ética, no respeito e na solidariedade.&lt;\/p&gt;",
+         "TextoContato": "&lt;p&gt;Telefone geral: (37) 3352-2600&lt;\/p&gt;",
+         "TextoLocalizacao": "&lt;p&gt;Av. Yolando Sebastião Logli, 255 - Distrito Industrial II - Arcos - MG - CEP 35588-000&lt;\/p&gt;",
+         "Titulo": "Arcos"
+      },
+      {
+         "Img": "http://web.sistemas.pucminas.br/PUCMobile/Institucional/v1/img/UnidadesGuanhaes.jpg",
+         "Lat": -18.78958,
+         "LinkAcessoExterno": "http://pucminas.br/guanhaes/index_padrao.php?pagina=1009",
+         "Lon": -42.946523,
+         "NomeMenu": "Guanhães",
+         "TextoApresentacao": "&lt;p&gt;O campus da PUC Minas em Guanhães iniciou suas atividades no 1º semestre de 2005 com o curso de graduação em Sistemas de Informação. Com sede própria, o campus conta com moderna infra-estrutura computacional devidamente ligada a todos os serviços do campus do Coração Eucarístico, em Belo Horizonte (Biblioteca Central, Centro de Registros Acadêmicos, DATAPUC), além de Biblioteca própria e de dois laboratórios de informática.&lt;\/p&gt;\r\n&lt;p&gt;A PUC Minas em Guanhães está localizada a 240 km de Belo Horizonte, 150 km de Governador Valadares e 140 km de Ipatinga.&lt;\/p&gt;\r\n&lt;p&gt;Considerada cidade-pólo do centro nordeste mineiro, Guanhães é centro de uma microrregião que possui cerca de 180.000 habitantes. O município é atendido por diversas de linhas de ônibus e possui aproximadamente 520 estabelecimentos, entre micro e pequenas empresas, pequenas e grandes indústrias, com destaque para os setores de laticínios e extrativismo, sendo, ainda, sede regional de 23 órgãos públicos, além da Diocese.&lt;\/p&gt;",
+         "TextoContato": "&lt;p&gt;Telefone geral: (33) 3421-7900&lt;\/p&gt;",
+         "TextoLocalizacao": "&lt;p&gt;Avenida Vitória Régia, nº 200 \u2013 Jardins II - 39.740-000 - Guanhães - MG&lt;\/p&gt;",
+         "Titulo": "Guanhães"
+      },
+      {
+         "Img": "http://web.sistemas.pucminas.br/PUCMobile/Institucional/v1/img/UnidadesPocosDeCaldas.jpg",
+         "Lat": -21.7995139,
+         "LinkAcessoExterno": "http://www.pucpcaldas.br/",
+         "Lon": -46.5977583,
+         "NomeMenu": "Poços de Caldas",
+         "TextoApresentacao": "&lt;p&gt;O campus Poços de Caldas está instalado, há 14 anos, em um terreno de 246 mil m2, sendo 21 mil m2 de área construída. São 6 prédios que além das salas de aula, abrigam laboratórios que atendem às áreas de Ciências Biológicas, Ciências Exatas, Anatomia Animal, Arquitetura, Pedagogia e Psicologia e laboratórios de informática, clínica de fisioterapia, hospital veterinário e biblioteca informatizada, com um acervo de 66 mil exemplares. Desde janeiro de 2000, a biblioteca da PUC Minas campus de Poços de Caldas funciona em um espaço de 1850m², atendendo alunos, docentes, funcionários da Universidade e a comunidade. Grande parte do seu acervo é composta por livros adquiridos através de convênio firmado entre a PUC Minas e a Prefeitura local, à qual a Autarquia Municipal de Ensino de Poços de Caldas estava subordinada. Com a vinda da PUC Minas no ano de 1997, deu-se o impulso para que novos cursos fossem criados e o campus foi ampliado com novos prédios. A PUC Minas campus de Poços de Caldas oferece três auditórios: dois com capacidade para 100 lugares e outro para 250 pessoas.&lt;\/p&gt;",
+         "TextoContato": "&lt;p&gt;Telefone: (35) 3729-9200 - FAX: (35) 3729-9201&lt;\/p&gt;",
+         "TextoLocalizacao": "&lt;p&gt;Av. Padre Francis Cletus Cox, 1661 - Poços de Caldas - MG - CEP 37701-355&lt;\/p&gt;",
+         "Titulo": "Poços de Caldas"
+      },
+      {
+         "Img": "http://web.sistemas.pucminas.br/PUCMobile/Institucional/v1/img/UnidadesSerro.jpg",
+         "Lat": -18.6064172,
+         "LinkAcessoExterno": "http://pucminas.br/destaques/unidades.php?unidade=701000000&amp;pagina=889",
+         "Lon": -43.3835138,
+         "NomeMenu": "Serro",
+         "TextoApresentacao": "&lt;p&gt;O campus da PUC Minas em Serro iniciou suas atividades, em 2003, com os cursos de  graduação de Administração e Direito.&lt;\/p&gt;\r\n&lt;p&gt;Instalada nas dependências do Colégio Nossa Senhora da Conceição, a PUC Minas em Serro conta com moderna infra-estrutura computacional devidamente ligada a todos os serviços do campus sede do Coração Eucarístico/BH (Biblioteca Central, Centro de Registros Acadêmicos, DATAPUC).&lt;\/p&gt;\r\n&lt;p&gt;Com o novo campus, a PUC Minas espera estender os benefícios da sua presença à região do Alto Jequitinhonha e, em especial, ao Serro, primeira cidade do Brasil a receber oficialmente o título de Cidade Patrimônio Nacional.&lt;\/p&gt;",
+         "TextoContato": "&lt;p&gt;Telefone geral: (38) 3541-2900&lt;\/p&gt;",
+         "TextoLocalizacao": "&lt;p&gt;Praça João Pessoa, 74 - Centro - CEP: 39150-000 - Serro - MG&lt;\/p&gt;",
+         "Titulo": "Serro"
+      }
+   ],
+   "TextoApresentacao": null,
+   "Titulo": "Unidades",
+   "__type": "Unidades:#SMC.PUCMobile.Institucional.Service.Data"
+}</outtemplate>
+        <outTemplateHeader>Date: Wed, 23 Dec 2015 11:09:20 GMT
+Access-Control-Allow-Origin: *
+Content-Length: 14044
+Content-Type: application/json; charset=utf-8
+X-Powered-By: ASP.NET
+Server: Microsoft-IIS/8.5
+</outTemplateHeader>
+        <outparam>
+            <category></category>
+            <datatype>string</datatype>
+            <defaultvalue></defaultvalue>
+            <description></description>
+            <encode>true</encode>
+            <format>None</format>
+            <formatvalue></formatvalue>
+            <id>CampusList</id>
+            <invalue></invalue>
+            <name></name>
+            <order></order>
+            <passNull>false</passNull>
+            <recordid></recordid>
+            <smsname></smsname>
+            <source>//ListaUnidades</source>
+            <srcformatvalue></srcformatvalue>
+            <target>response</target>
+            <targetdatatype></targetdatatype>
+            <testvalue></testvalue>
+            <value></value>
+        </outparam>
+        <outparam>
+            <category></category>
+            <datatype>string</datatype>
+            <defaultvalue></defaultvalue>
+            <description></description>
+            <encode>true</encode>
+            <format>None</format>
+            <formatvalue></formatvalue>
+            <id>imgURL</id>
+            <invalue></invalue>
+            <name></name>
+            <order></order>
+            <passNull>false</passNull>
+            <recordid></recordid>
+            <smsname></smsname>
+            <source>./Img</source>
+            <srcformatvalue></srcformatvalue>
+            <target>response</target>
+            <targetdatatype></targetdatatype>
+            <testvalue></testvalue>
+            <value>CampusList</value>
+        </outparam>
+        <outparam>
+            <category></category>
+            <datatype>string</datatype>
+            <defaultvalue></defaultvalue>
+            <description></description>
+            <encode>true</encode>
+            <format>None</format>
+            <formatvalue></formatvalue>
+            <id>Lat</id>
+            <invalue></invalue>
+            <name></name>
+            <order></order>
+            <passNull>false</passNull>
+            <recordid></recordid>
+            <smsname></smsname>
+            <source>./Lat</source>
+            <srcformatvalue></srcformatvalue>
+            <target>response</target>
+            <targetdatatype></targetdatatype>
+            <testvalue></testvalue>
+            <value>CampusList</value>
+        </outparam>
+        <outparam>
+            <category></category>
+            <datatype>string</datatype>
+            <defaultvalue></defaultvalue>
+            <description></description>
+            <encode>true</encode>
+            <format>None</format>
+            <formatvalue></formatvalue>
+            <id>LinkAcessoExterno</id>
+            <invalue></invalue>
+            <name></name>
+            <order></order>
+            <passNull>false</passNull>
+            <recordid></recordid>
+            <smsname></smsname>
+            <source>./LinkAcessoExterno</source>
+            <srcformatvalue></srcformatvalue>
+            <target>response</target>
+            <targetdatatype></targetdatatype>
+            <testvalue></testvalue>
+            <value>CampusList</value>
+        </outparam>
+        <outparam>
+            <category></category>
+            <datatype>string</datatype>
+            <defaultvalue></defaultvalue>
+            <description></description>
+            <encode>true</encode>
+            <format>None</format>
+            <formatvalue></formatvalue>
+            <id>Lon</id>
+            <invalue></invalue>
+            <name></name>
+            <order></order>
+            <passNull>false</passNull>
+            <recordid></recordid>
+            <smsname></smsname>
+            <source>./Lon</source>
+            <srcformatvalue></srcformatvalue>
+            <target>response</target>
+            <targetdatatype></targetdatatype>
+            <testvalue></testvalue>
+            <value>CampusList</value>
+        </outparam>
+        <outparam>
+            <category></category>
+            <datatype>string</datatype>
+            <defaultvalue></defaultvalue>
+            <description></description>
+            <encode>true</encode>
+            <format>None</format>
+            <formatvalue></formatvalue>
+            <id>NomeMenu</id>
+            <invalue></invalue>
+            <name></name>
+            <order></order>
+            <passNull>false</passNull>
+            <recordid></recordid>
+            <smsname></smsname>
+            <source>./NomeMenu</source>
+            <srcformatvalue></srcformatvalue>
+            <target>response</target>
+            <targetdatatype></targetdatatype>
+            <testvalue></testvalue>
+            <value>CampusList</value>
+        </outparam>
+        <outparam>
+            <category></category>
+            <datatype>string</datatype>
+            <defaultvalue></defaultvalue>
+            <description></description>
+            <encode>true</encode>
+            <format>None</format>
+            <formatvalue></formatvalue>
+            <id>TextoApresentacao</id>
+            <invalue></invalue>
+            <name></name>
+            <order></order>
+            <passNull>false</passNull>
+            <recordid></recordid>
+            <smsname></smsname>
+            <source>./TextoApresentacao</source>
+            <srcformatvalue></srcformatvalue>
+            <target>response</target>
+            <targetdatatype></targetdatatype>
+            <testvalue></testvalue>
+            <value>CampusList</value>
+        </outparam>
+        <outparam>
+            <category></category>
+            <datatype>string</datatype>
+            <defaultvalue></defaultvalue>
+            <description></description>
+            <encode>true</encode>
+            <format>None</format>
+            <formatvalue></formatvalue>
+            <id>TextoContato</id>
+            <invalue></invalue>
+            <name></name>
+            <order></order>
+            <passNull>false</passNull>
+            <recordid></recordid>
+            <smsname></smsname>
+            <source>./TextoContato</source>
+            <srcformatvalue></srcformatvalue>
+            <target>response</target>
+            <targetdatatype></targetdatatype>
+            <testvalue></testvalue>
+            <value>CampusList</value>
+        </outparam>
+        <outparam>
+            <category></category>
+            <datatype>string</datatype>
+            <defaultvalue></defaultvalue>
+            <description></description>
+            <encode>true</encode>
+            <format>None</format>
+            <formatvalue></formatvalue>
+            <id>TextoLocalizacao</id>
+            <invalue></invalue>
+            <name></name>
+            <order></order>
+            <passNull>false</passNull>
+            <recordid></recordid>
+            <smsname></smsname>
+            <source>./TextoLocalizacao</source>
+            <srcformatvalue></srcformatvalue>
+            <target>response</target>
+            <targetdatatype></targetdatatype>
+            <testvalue></testvalue>
+            <value>CampusList</value>
+        </outparam>
+        <outparam>
+            <category></category>
+            <datatype>string</datatype>
+            <defaultvalue></defaultvalue>
+            <description></description>
+            <encode>true</encode>
+            <format>None</format>
+            <formatvalue></formatvalue>
+            <id>Titulo</id>
+            <invalue></invalue>
+            <name></name>
+            <order></order>
+            <passNull>false</passNull>
+            <recordid></recordid>
+            <smsname></smsname>
+            <source>./Titulo</source>
+            <srcformatvalue></srcformatvalue>
+            <target>response</target>
+            <targetdatatype></targetdatatype>
+            <testvalue></testvalue>
+            <value>CampusList</value>
+        </outparam>
+        <password></password>
+        <postclassname></postclassname>
+        <preclassname></preclassname>
+        <proxyname></proxyname>
+        <proxyport></proxyport>
+        <proxypwd></proxypwd>
+        <proxyuserid></proxyuserid>
+        <responseencoding>UTF-8</responseencoding>
+        <smscode></smscode>
+        <smsenabled>false</smsenabled>
+        <timeout></timeout>
+        <url>http://web.sistemas.pucminas.br/PUCMobile/Institucional/v1/InstitucionalService.svc/BuscarAlteracoes?conteudo=Unidades</url>
+        <urlprovider></urlprovider>
+        <userid></userid>
+    </plainxmlservice>
+</pxsObject>

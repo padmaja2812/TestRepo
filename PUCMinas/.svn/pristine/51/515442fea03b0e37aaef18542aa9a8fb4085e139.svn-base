@@ -1,0 +1,30 @@
+{
+	"AS_Segment_fde3a7b53c8b48d7aaee101ab5f1121a": {
+		"id": "AS_Segment_fde3a7b53c8b48d7aaee101ab5f1121a",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			},
+			{
+				"datatype": "number",
+				"name": "sectionNumber"
+			},
+			{
+				"datatype": "number",
+				"name": "rowNumber"
+			}
+		],
+		"actions": [
+			{
+				"id": "NAVIGATE_TO_FORM___c704203fcafa4586b362b40dc3482a00",
+				"type": "NAVIGATE_TO_FORM",
+				"formId": "frmCampusDetails",
+				"formKUID": "39e7d08e68fe460fa312ad0c4b1aab90",
+				"parentId": "",
+				"callbackType": null
+			}
+		]
+	}
+}

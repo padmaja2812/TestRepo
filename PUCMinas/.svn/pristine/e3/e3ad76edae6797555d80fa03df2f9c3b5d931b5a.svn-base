@@ -1,0 +1,4 @@
+function AS_Button_6c33720c535e44c2ba12af400edc7ea2(eventobject) {
+frmCampus.show();
+
+}

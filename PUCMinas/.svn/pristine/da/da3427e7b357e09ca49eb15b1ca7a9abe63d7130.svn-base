@@ -1,0 +1,4 @@
+function AS_Button_3e486b5dc3e74b3c9083f2521491a715(eventobject) {
+callServiceSGALogin();
+
+}

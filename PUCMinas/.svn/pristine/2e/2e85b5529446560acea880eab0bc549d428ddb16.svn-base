@@ -1,0 +1,21 @@
+{
+	"AS_Button_c3b86be01dd74daaac512e483b1d7cfc": {
+		"id": "AS_Button_c3b86be01dd74daaac512e483b1d7cfc",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__9125b3bcce0449b6800400787aa089ed",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "callServiceNoticias();\nfrmNoticies.show();",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

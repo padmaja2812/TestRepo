@@ -1,0 +1,14 @@
+{
+	"AS_Form_b7e91cb070734b96873183041b664c57": {
+		"id": "AS_Form_b7e91cb070734b96873183041b664c57",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_preShow_4b13a409ba994f6b97ecc151a9dcd648",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "frmNoticies.FlexContainerHamburger.left = \"-80%\";\nfrmNoticies.FlexContainerTrans.setVisibility(false);",
+				"callbackType": null
+			}
+		]
+	}
+}

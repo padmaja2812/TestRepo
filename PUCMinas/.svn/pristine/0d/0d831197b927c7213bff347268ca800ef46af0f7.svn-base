@@ -1,0 +1,4 @@
+function AS_Image_c769babb22c54e338642ffc9d4dba31a(eventobject, x, y) {
+frmNoticies.show();
+
+}

@@ -1,0 +1,4 @@
+function AS_FlexContainer_f368ec35d61d45f08b36e3c728140a67(eventobject, x, y) {
+animateHamburger();
+
+}

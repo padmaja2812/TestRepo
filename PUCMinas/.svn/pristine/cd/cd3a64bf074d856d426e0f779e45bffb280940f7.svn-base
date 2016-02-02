@@ -1,0 +1,20 @@
+{
+	"AS_Form_ee9102dda7434c98b2d775a58e3c58a4": {
+		"id": "AS_Form_ee9102dda7434c98b2d775a58e3c58a4",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_onDeviceBack_2e8c22a2274044f88dbb15e84dae094a",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "kony.print(\"Do nothing\");",
+				"callbackType": null
+			}
+		]
+	}
+}

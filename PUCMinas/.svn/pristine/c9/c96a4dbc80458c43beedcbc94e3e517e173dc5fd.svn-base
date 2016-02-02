@@ -1,0 +1,4 @@
+function AS_Button_7a6bbb9882b7413d884ece2bc5b670e5(eventobject) {
+callServiceCampus();
+
+}

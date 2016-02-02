@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application id="PUCMinas" name="PUCMinas">
+    <container isflex="false" displayname="Form" id="frmCampus" type="form"/>
+    <container isflex="false" displayname="Form" id="frmCampusDetails" type="form">
+        <component displayname="Map" id="MapLocalization" type="map">
+            <attributes datatype="string" name="key" platform="general" value="Google map key is not defined in application properties"/>
+        </component>
+    </container>
+    <container isflex="false" displayname="Form" id="frmMaterials" type="form"/>
+    <container isflex="false" displayname="Form" id="frmNoticasFull" type="form"/>
+    <container isflex="false" displayname="Form" id="frmNoticies" type="form"/>
+    <container isflex="false" displayname="Form" id="frmSGAHome" type="form"/>
+    <container isflex="false" displayname="Form" id="frmSGAHomeFull" type="form"/>
+    <container isflex="false" displayname="Form" id="frmSGALogin" type="form">
+        <component displayname="TextBox2" id="txtUser" type="textbox2"/>
+        <component displayname="TextBox2" id="txtPassword" type="textbox2"/>
+    </container>
+    <container isflex="false" displayname="Form" id="frmSplash" type="form"/>
+    <container isflex="false" displayname="Form" id="frmSubjectScores" type="form"/>
+    <container isflex="false" displayname="Form" id="frmSubjects" type="form"/>
+    <globalsequences/>
+    <skins/>
+</application>

@@ -1,0 +1,15 @@
+{
+	"AS_Form_1d73d4f5083b4f8f876ecad32147a203": {
+		"id": "AS_Form_1d73d4f5083b4f8f876ecad32147a203",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__175339f44a08457789f13d6f7a913a61",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "frmSubjects.FlexContainerHamburger.left = \"-80%\";\nfrmSubjects.FlexContainerTrans.setVisibility(false);",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}
